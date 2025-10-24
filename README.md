@@ -26,16 +26,16 @@ To address this challenge, we present HE-DAP, a cross-platform optimization fram
 - Lattigo V6 library (https://github.com/tuneinsight/lattigo)
 
 ## 3. Run the optimizer
-The HE-DAP's optimizer are introduced in the following directory.
-./optimizer/result
+The HE-DAP's optimizer are introduced in the following directory. \
+./optimizer/result \
 In the directory, run the following command:
 ```bash
     go run main.go
 ```
 
 ## 4. Run the codes
-The four experiments are introduced in the following directory.
-./examples
+The four experiments are introduced in the following directory. \
+./examples \
 The detailed explanation and how to run the example code is in the README.md in the example directory.
 
 ## 5. License
